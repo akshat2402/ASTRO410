@@ -1,0 +1,5 @@
+Convert the problem into 2D. Lagrange points is where gravitational force 
+is zero. Need to find the barycenter. 
+r12 = r1^2 = (x-x1)^2 + y^2
+r22 = r2^2 = (x-x2)^2 + y^2
+
